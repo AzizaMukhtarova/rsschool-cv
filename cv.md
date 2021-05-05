@@ -16,3 +16,15 @@ Hi, I'm **Aziza**. I am currently increasing my knowledge in the field of androi
 - [x] Android
 
 ---
+
+## Code example:
+You can see my source codes on my GitHub account. [AzizaMukhtarova](https://github.com/AzizaMukhtarova)
+
+## Experience:
+//
+
+---
+
+## Education:
+*2018-2022* Tashkent University of Information Technology after named Mukhammad al-Kharezmi (TUIT)
+
